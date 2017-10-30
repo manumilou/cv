@@ -1,0 +1,16 @@
+# Generate HTML
+
+$ resume export --theme=stackoverflow resume.html
+
+
+# Generate PDF
+
+$ cd /usr/lib/node_modules/resume-cli/node_modules/html-pdf
+$ node bin/index.js  /home/manu/documents/cv/resume.html /tmp/resume.pdf
+
+NOTE: changement dans index.js pour ajouter les marges (L34) 
+
+
+# Theme Stackoverflow
+
+$ cd /usr/lib/node_modules/jsonresume-theme-stackoverflow
