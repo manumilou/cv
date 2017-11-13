@@ -2,10 +2,9 @@
   "basics": {
     "name": "Emmanuel Milou",
     "label": "Software Engineer, Technical Lead",
-    "picture": "/home/manu/images/profile_s.jpg",
     "email": "manumilou@mykolab.com",
     "phone": "(514) 293-2301",
-    "summary": "After ten years working at Savoir-faire Linux, I am now looking for new exciting challenges. My expertise goes from development of embedded camera firmware to web content management system, team management, various API development and CI/CD pipelines implementation. I am looking to have a positive impact in a position that will provide both inspiring human interactions and interesting technical challenges.", 
+    "summary": "I have 10+ years experience as a Free software consultant, developer and technical lead. My technical background goes from embedded and C development to web applications, content management systems, APIs development and CI/CD pipelines implementation. I was team manager and technical lead in our web development department (up to 25 developers) for several years. I am looking to have a positive impact in a position that will provide both inspiring human interactions and interesting technical challenges.",
     "location": {
       "address": "5139 rue de Brébeuf",
       "postalCode": "H2J 3L8",
@@ -28,7 +27,7 @@
   },
   "work": [
     {
-      "company": "Savoir-faire Linux",
+      "company": "Savoir-faire Linux, Montreal",
       "position": "Technical Director, Web Solutions",
       "website": "http://savoirfairelinux.com",
       "startDate": "2016-11-01",
@@ -37,31 +36,30 @@
 	"Streamlined testing and delivery processes among the different stack teams",
 	"Helped on and reviewed projects estimates produced by the developers",
 	"Engaged a Devops transition among the Web department (~30 persons)",
-	"Developed collaboration spirit between developers of both offices (Montreal and Quebec)",
+	"Developed collaboration in a distributed team",
 	"Evangelized best software development practices and open-source contributions",
-	"Organized several coding nights with developers and members of the Montreal's coding community",
-	"Drafted many Request For Proposals responses, mostly Drupal and web-related",
+	"Interacted with local open-source communities to organize coding events",
+	"Drafted many Request For Proposals responses, in Drupal and web-related",
 	"Collaborated with HR department to scale up the team",
-	"Proudly participated at the Applied Security Event NorthSec in 2017 with a corporate team (ranked 13th) "
+	"Proudly ranked 13th at the Applied Security Event NorthSec in 2017 (on 40 teams) "
       ],
       "keywords": [
         "project management", "architecture", "team", "devops", "CI/CD", "Agile"
       ]
     },
     {
-      "company": "Savoir-faire Linux",
+      "company": "Savoir-faire Linux, Montreal",
       "position": "Drupal Practice leader",
       "website": "http://savoirfairelinux.com",
       "startDate": "2013-01-01",
       "endDate": "2016-10-01",
       "highlights": [
-	"Collaborated with our team located in Paris on a Request for Proposals for Paris-Dauphine university and won",
-	"Acted successfully as project manager and architect in numerous projects", 
+	"Collaborated with the team in Paris on a Request for Proposals for Paris-Dauphine university. Contract won: http://my.dauphine.fr.",
+	"Acted successfully as project manager and architect in numerous projects",
         "Built a skillful team of Drupal experts (up to 5 backend developers)",
 	"Designed Drupal development and deployment processes used among the team for clients projects",
 	"Initiated a fair development program to help non-profit organization with their IT needs",
-	"Architected and partially developed the new portal of Polytechnique school (http://polymtl.ca)",
-        "Spoke at a couple of tech conferencies in Montreal (References below)",
+	"Architected and developed the new portal of Polytechnique school (http://polymtl.ca)",
 	"Acted as Ring (formerly SFLphone) Scrum Master"
       ],
       "keywords": [
@@ -69,16 +67,17 @@
       ]
     },
     {
-      "company": "Savoir-faire Linux",
+      "company": "Savoir-faire Linux, Montreal",
       "position": "Free software consultant",
       "website": "http://savoirfairelinux.com",
       "startDate": "2007-10-01",
       "endDate": "2012-12-31",
       "highlights": [
 	"Worked on the open-source R&D project Ring (formerly SFLphone)",
-	"Worked as embedded Linux developer in an international leader in high performance digital imaging (TeleDyne Dalsa)", 
-	"Developed the Portable North Pole platform, three years in a row",
+	"Worked as embedded Linux developer in an international leader in high performance digital imaging (TeleDyne Dalsa)",
+	"Developed the high-traffic Portable North Pole platform",
         "Trained professionals to use LAMP stack",
+        "Certified as Professional Scrum Master (Pyxis)",
         "Audited internal processes as member of the auditors team (ISO 9001)"
       ],
       "keywords": [
@@ -88,7 +87,7 @@
   ],
   "education": [
     {
-      "institution": "Society of Arts and Technology",
+      "institution": "Society of Arts and Technology, Montreal",
       "studyType": "Internship",
       "startDate": "2006-06-01",
       "endDate": "2006-10-01",
@@ -100,7 +99,7 @@
     },
     {
       "institution": "University of Montreal",
-      "studyType": "Department of Computer Science and Operations Research",
+      "studyType": "Department of Computer Science and Operations Research (Student Exchange)",
       "startDate": "2005-09-01",
       "endDate": "2006-05-01",
       "courses": [
@@ -175,7 +174,7 @@
       "website": "http://fr.slideshare.net/EmmanuelMilou/gain-productivity-with-drush",
       "keywords": [
         "drupal",
-	"drush"	
+	"drush"
       ]
     }
 
@@ -187,8 +186,8 @@
         "PHP",
         "Python",
 	"Bash",
+  "MySQL",
 	"Javascript",
-	"Nodejs",
 	"C++",
 	"C"
       ]
@@ -211,8 +210,10 @@
 	"GitLab CI",
         "Sonarqube",
 	"Rest API",
+	"Testing",
 	"TDD",
-	"CI/CD"
+	"CI/CD",
+  "Redis"
       ]
     },
     {
@@ -240,6 +241,8 @@
 {
       "name": "Learning",
       "keywords": [
+        "Ruby",
+         "Rails",
         "Haskell",
 	"Ansible",
 	"Chef"
@@ -249,11 +252,11 @@
   "languages": [
     {
       "language": "French",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Conversationnel"
+      "fluency": "Fluent"
     }
   ]
 }
